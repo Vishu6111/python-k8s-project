@@ -1,0 +1,5 @@
+---
+deploymentName: nginx-test
+replicaCount: 4
+Image: nginx:latest
+
