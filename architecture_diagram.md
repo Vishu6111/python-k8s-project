@@ -1,6 +1,6 @@
 +---------------------+           +-------------------+
 |   YAML Configuration|           |   Python Script   |
-| (nginx_schema.yaml) |           | (main.py) |
+| (nginx_schema.yaml) |           |     (main.py)     |
 +---------------------+           +-------------------+
           |                              |
           v                              v
